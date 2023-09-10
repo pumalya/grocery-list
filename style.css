@@ -1,0 +1,23 @@
+.pantryItems{
+    background-color: bisque;
+    border: 1px solid black;
+    width: 31%;
+}
+
+.canned{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 31%;
+}
+
+.freezerItems{
+    background-color: bisque;
+    border: 1px solid black;
+    width: 31%;
+}
+.veggies{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 31%;
+}
+
